@@ -91,7 +91,7 @@ void ProgressDisplay::finish(const std::string& status) {
     active = false;
 }
 
-std::string ProgressDisplay::format_bytes(uint64_t bytes) {
+std::string ProgressDisplay::format_bytes(const uint64_t bytes) {
     const char* units[] = {"B", "KB", "MB", "GB", "TB"};
     int unit            = 0;
     auto size           = static_cast<double>(bytes);
