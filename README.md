@@ -1,10 +1,12 @@
 # file-chat
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg)](https://en.cppreference.com/w/cpp/23)
 [![CMake](https://img.shields.io/badge/CMake-3.31+-green.svg)](https://cmake.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Консольное приложение для обмена сообщениями и файлами по сети.**
+
+**Лицензия:** MIT — код можно свободно использовать, изменять и распространять **при условии обязательного указания автора (VadmanBat)** и сохранения текста лицензии.
 
 ## Описание
 
