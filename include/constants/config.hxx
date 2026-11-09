@@ -1,4 +1,5 @@
 #pragma once
+// Created by Vadim 04.04.2026.
 
 #include <cstdint>
 
